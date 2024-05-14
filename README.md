@@ -48,7 +48,13 @@ This Rasa bot is a simple echo bot. It echoes back whatever the user inputs. It'
 
 ## Running the Bot
 
-1. **Start Rasa Shell**: 
+1. **Start Rasa Action Server**: 
+   - Start the Rasa action server:
+     ```bash
+     rasa run actions
+     ```
+     
+2. **Start Rasa Shell**: 
    - Start the Rasa shell to interact with the trained bot:
      ```bash
      rasa shell
