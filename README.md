@@ -31,7 +31,7 @@ This Rasa bot is a simple echo bot. It echoes back whatever the user inputs. It'
 1. **Clone Repository**: 
    - Clone your Rasa bot repository:
      ```bash
-     git clone https://github.com/your_username/your_bot_repo.git
+     git clone https://github.com/mahaboobsabGoa/RASA-EchoBot.git
      ```
 
 2. **Navigate to Repository**: 
