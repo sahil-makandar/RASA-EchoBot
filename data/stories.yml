@@ -5,6 +5,7 @@ stories:
 - story: happy path
   steps:
   - intent: greet
-  - action: utter_greet
+  - action: action_default_fallback
   - intent: goodbye
-  - action: utter_goodbye
+  - action: action_default_fallback
+
